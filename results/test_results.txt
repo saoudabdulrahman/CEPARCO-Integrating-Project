@@ -1,0 +1,6 @@
+PASS: 14 BMP test cases; padding, orientation, and pixel colors verified.
+PASS: 44 cases; planar-float C output matches sequential C byte-for-byte.
+PASS: 90 cases; NASM planar AVX2 output matches sequential C byte-for-byte.
+PASS: benchmark CLI, 30-run measurements, equality checks, and memory report.
+PASS: 78 BMP extraction cases plus guarded boundary load.
+All Week 10 test suites passed.
