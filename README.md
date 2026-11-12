@@ -1,5 +1,5 @@
 # CEPARCO-Integrating-Project
-# CEPARCO Group 7 — Grayscale Conversion with AVX2
+# Group 7 — Grayscale Conversion with AVX2
 
 **Project:** Performance Analysis of Planar-Float and Direct Packed-BMP AVX2 Implementations for Image Grayscale Conversion  
 **Group:** Abdulrahman, Lim, Lopez, Nicolas  
