@@ -7,8 +7,9 @@ Run these steps in order. All commands assume you are in the **repository root**
 1. Extract the ZIP. Open **x64 Native Tools Command Prompt for VS 2022**.
 2. Navigate into the extracted project (change the path if you saved it elsewhere):
 
+Example
    ```bat
-   cd /d "C:\Users\Francis Medin\Downloads\CEPARCO_Week10_Lecture_Aligned"
+   cd /d "C:\Users\Francis Medin\xxxxxx\xxxxxx"
    ```
 
 3. Check the tools:
