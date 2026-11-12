@@ -1,0 +1,751 @@
+width,height,pixels,comparison,implementation,iteration,time_ms
+640,480,307200,complete_in_memory,Sequential C,1,4.758900002
+640,480,307200,complete_in_memory,Sequential C,2,4.964300002
+640,480,307200,complete_in_memory,Sequential C,3,4.731000001
+640,480,307200,complete_in_memory,Sequential C,4,4.348600000
+640,480,307200,complete_in_memory,Sequential C,5,4.493200002
+640,480,307200,complete_in_memory,Sequential C,6,5.368000006
+640,480,307200,complete_in_memory,Sequential C,7,7.222000000
+640,480,307200,complete_in_memory,Sequential C,8,5.517300000
+640,480,307200,complete_in_memory,Sequential C,9,4.980999998
+640,480,307200,complete_in_memory,Sequential C,10,5.149500001
+640,480,307200,complete_in_memory,Sequential C,11,5.202299995
+640,480,307200,complete_in_memory,Sequential C,12,4.762600001
+640,480,307200,complete_in_memory,Sequential C,13,4.619300002
+640,480,307200,complete_in_memory,Sequential C,14,5.160399996
+640,480,307200,complete_in_memory,Sequential C,15,4.743700003
+640,480,307200,complete_in_memory,Sequential C,16,5.145700001
+640,480,307200,complete_in_memory,Sequential C,17,5.814400000
+640,480,307200,complete_in_memory,Sequential C,18,5.249300004
+640,480,307200,complete_in_memory,Sequential C,19,4.593799997
+640,480,307200,complete_in_memory,Sequential C,20,5.732600002
+640,480,307200,complete_in_memory,Sequential C,21,4.405899999
+640,480,307200,complete_in_memory,Sequential C,22,4.628499999
+640,480,307200,complete_in_memory,Sequential C,23,4.700499994
+640,480,307200,complete_in_memory,Sequential C,24,4.630299998
+640,480,307200,complete_in_memory,Sequential C,25,4.769200001
+640,480,307200,complete_in_memory,Sequential C,26,5.214099998
+640,480,307200,complete_in_memory,Sequential C,27,6.327600000
+640,480,307200,complete_in_memory,Sequential C,28,4.644599998
+640,480,307200,complete_in_memory,Sequential C,29,5.304099999
+640,480,307200,complete_in_memory,Sequential C,30,4.752000001
+640,480,307200,complete_in_memory,Planar C,1,6.800299998
+640,480,307200,complete_in_memory,Planar C,2,6.656699996
+640,480,307200,complete_in_memory,Planar C,3,6.268500001
+640,480,307200,complete_in_memory,Planar C,4,5.704600000
+640,480,307200,complete_in_memory,Planar C,5,5.698200002
+640,480,307200,complete_in_memory,Planar C,6,6.628199997
+640,480,307200,complete_in_memory,Planar C,7,7.997000001
+640,480,307200,complete_in_memory,Planar C,8,7.948899998
+640,480,307200,complete_in_memory,Planar C,9,5.677900001
+640,480,307200,complete_in_memory,Planar C,10,6.095299999
+640,480,307200,complete_in_memory,Planar C,11,6.762400000
+640,480,307200,complete_in_memory,Planar C,12,6.584700001
+640,480,307200,complete_in_memory,Planar C,13,7.763100002
+640,480,307200,complete_in_memory,Planar C,14,7.668699996
+640,480,307200,complete_in_memory,Planar C,15,7.228500006
+640,480,307200,complete_in_memory,Planar C,16,6.907299998
+640,480,307200,complete_in_memory,Planar C,17,6.674999997
+640,480,307200,complete_in_memory,Planar C,18,7.452099999
+640,480,307200,complete_in_memory,Planar C,19,7.583999999
+640,480,307200,complete_in_memory,Planar C,20,7.780699998
+640,480,307200,complete_in_memory,Planar C,21,7.147100005
+640,480,307200,complete_in_memory,Planar C,22,6.859300003
+640,480,307200,complete_in_memory,Planar C,23,7.264600004
+640,480,307200,complete_in_memory,Planar C,24,6.888900003
+640,480,307200,complete_in_memory,Planar C,25,6.476700000
+640,480,307200,complete_in_memory,Planar C,26,6.231400002
+640,480,307200,complete_in_memory,Planar C,27,10.261399999
+640,480,307200,complete_in_memory,Planar C,28,7.226900001
+640,480,307200,complete_in_memory,Planar C,29,6.710199996
+640,480,307200,complete_in_memory,Planar C,30,5.895499999
+640,480,307200,complete_in_memory,Planar NASM AVX2,1,3.570100002
+640,480,307200,complete_in_memory,Planar NASM AVX2,2,2.888900002
+640,480,307200,complete_in_memory,Planar NASM AVX2,3,2.252099999
+640,480,307200,complete_in_memory,Planar NASM AVX2,4,1.883400000
+640,480,307200,complete_in_memory,Planar NASM AVX2,5,1.852500005
+640,480,307200,complete_in_memory,Planar NASM AVX2,6,1.899199997
+640,480,307200,complete_in_memory,Planar NASM AVX2,7,2.490600004
+640,480,307200,complete_in_memory,Planar NASM AVX2,8,2.070600000
+640,480,307200,complete_in_memory,Planar NASM AVX2,9,1.843300000
+640,480,307200,complete_in_memory,Planar NASM AVX2,10,1.898900002
+640,480,307200,complete_in_memory,Planar NASM AVX2,11,3.964600000
+640,480,307200,complete_in_memory,Planar NASM AVX2,12,2.289899996
+640,480,307200,complete_in_memory,Planar NASM AVX2,13,2.549799996
+640,480,307200,complete_in_memory,Planar NASM AVX2,14,3.026599996
+640,480,307200,complete_in_memory,Planar NASM AVX2,15,3.069700004
+640,480,307200,complete_in_memory,Planar NASM AVX2,16,2.595300000
+640,480,307200,complete_in_memory,Planar NASM AVX2,17,2.608800001
+640,480,307200,complete_in_memory,Planar NASM AVX2,18,2.577699997
+640,480,307200,complete_in_memory,Planar NASM AVX2,19,3.173700003
+640,480,307200,complete_in_memory,Planar NASM AVX2,20,4.595699997
+640,480,307200,complete_in_memory,Planar NASM AVX2,21,3.768600000
+640,480,307200,complete_in_memory,Planar NASM AVX2,22,4.111300004
+640,480,307200,complete_in_memory,Planar NASM AVX2,23,4.191000000
+640,480,307200,complete_in_memory,Planar NASM AVX2,24,3.376599998
+640,480,307200,complete_in_memory,Planar NASM AVX2,25,3.027500003
+640,480,307200,complete_in_memory,Planar NASM AVX2,26,2.732900000
+640,480,307200,complete_in_memory,Planar NASM AVX2,27,3.648200000
+640,480,307200,complete_in_memory,Planar NASM AVX2,28,3.427299998
+640,480,307200,complete_in_memory,Planar NASM AVX2,29,2.700199999
+640,480,307200,complete_in_memory,Planar NASM AVX2,30,2.836100000
+640,480,307200,kernel_only_prepared,Planar scalar C,1,4.274999999
+640,480,307200,kernel_only_prepared,Planar scalar C,2,4.320000000
+640,480,307200,kernel_only_prepared,Planar scalar C,3,5.054900001
+640,480,307200,kernel_only_prepared,Planar scalar C,4,4.296599996
+640,480,307200,kernel_only_prepared,Planar scalar C,5,4.015599996
+640,480,307200,kernel_only_prepared,Planar scalar C,6,4.696000004
+640,480,307200,kernel_only_prepared,Planar scalar C,7,4.588500000
+640,480,307200,kernel_only_prepared,Planar scalar C,8,4.069200004
+640,480,307200,kernel_only_prepared,Planar scalar C,9,3.930999999
+640,480,307200,kernel_only_prepared,Planar scalar C,10,3.910700005
+640,480,307200,kernel_only_prepared,Planar scalar C,11,3.898200004
+640,480,307200,kernel_only_prepared,Planar scalar C,12,5.599399999
+640,480,307200,kernel_only_prepared,Planar scalar C,13,4.083499996
+640,480,307200,kernel_only_prepared,Planar scalar C,14,3.951900006
+640,480,307200,kernel_only_prepared,Planar scalar C,15,3.902100005
+640,480,307200,kernel_only_prepared,Planar scalar C,16,3.923199998
+640,480,307200,kernel_only_prepared,Planar scalar C,17,3.924199998
+640,480,307200,kernel_only_prepared,Planar scalar C,18,3.855499999
+640,480,307200,kernel_only_prepared,Planar scalar C,19,3.935600005
+640,480,307200,kernel_only_prepared,Planar scalar C,20,3.845499996
+640,480,307200,kernel_only_prepared,Planar scalar C,21,4.814800006
+640,480,307200,kernel_only_prepared,Planar scalar C,22,4.112600000
+640,480,307200,kernel_only_prepared,Planar scalar C,23,4.219700000
+640,480,307200,kernel_only_prepared,Planar scalar C,24,4.673400006
+640,480,307200,kernel_only_prepared,Planar scalar C,25,6.108899994
+640,480,307200,kernel_only_prepared,Planar scalar C,26,3.779600003
+640,480,307200,kernel_only_prepared,Planar scalar C,27,3.781899999
+640,480,307200,kernel_only_prepared,Planar scalar C,28,4.592200006
+640,480,307200,kernel_only_prepared,Planar scalar C,29,4.366100002
+640,480,307200,kernel_only_prepared,Planar scalar C,30,4.243500000
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,1,0.056000004
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,2,0.171000000
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,3,0.092499999
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,4,0.232400002
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,5,0.104200000
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,6,0.129199994
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,7,0.068399997
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,8,0.135299997
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,9,0.086100001
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,10,0.104699997
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,11,0.060999999
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,12,0.236100001
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,13,0.103300001
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,14,0.080699996
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,15,0.055099998
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,16,0.093399998
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,17,0.058500002
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,18,0.088000001
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,19,0.078599995
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,20,0.103200000
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,21,0.071199996
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,22,0.083299994
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,23,0.057200006
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,24,0.238399996
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,25,0.100600002
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,26,0.209499995
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,27,0.078900004
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,28,0.132599998
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,29,0.083499996
+640,480,307200,kernel_only_prepared,Planar NASM AVX2 + tail,30,0.103099999
+1280,720,921600,complete_in_memory,Sequential C,1,14.682600005
+1280,720,921600,complete_in_memory,Sequential C,2,18.177700003
+1280,720,921600,complete_in_memory,Sequential C,3,14.407700000
+1280,720,921600,complete_in_memory,Sequential C,4,16.423000001
+1280,720,921600,complete_in_memory,Sequential C,5,14.890600003
+1280,720,921600,complete_in_memory,Sequential C,6,14.675999999
+1280,720,921600,complete_in_memory,Sequential C,7,15.119299998
+1280,720,921600,complete_in_memory,Sequential C,8,17.961000005
+1280,720,921600,complete_in_memory,Sequential C,9,17.551400000
+1280,720,921600,complete_in_memory,Sequential C,10,16.062600000
+1280,720,921600,complete_in_memory,Sequential C,11,15.284200002
+1280,720,921600,complete_in_memory,Sequential C,12,15.636299999
+1280,720,921600,complete_in_memory,Sequential C,13,15.596400001
+1280,720,921600,complete_in_memory,Sequential C,14,15.066100001
+1280,720,921600,complete_in_memory,Sequential C,15,15.350000001
+1280,720,921600,complete_in_memory,Sequential C,16,14.514000002
+1280,720,921600,complete_in_memory,Sequential C,17,14.883299998
+1280,720,921600,complete_in_memory,Sequential C,18,14.708499999
+1280,720,921600,complete_in_memory,Sequential C,19,15.851900003
+1280,720,921600,complete_in_memory,Sequential C,20,15.176200002
+1280,720,921600,complete_in_memory,Sequential C,21,17.914299999
+1280,720,921600,complete_in_memory,Sequential C,22,14.934300001
+1280,720,921600,complete_in_memory,Sequential C,23,14.866199999
+1280,720,921600,complete_in_memory,Sequential C,24,14.109199998
+1280,720,921600,complete_in_memory,Sequential C,25,17.190499995
+1280,720,921600,complete_in_memory,Sequential C,26,17.221300004
+1280,720,921600,complete_in_memory,Sequential C,27,15.825700000
+1280,720,921600,complete_in_memory,Sequential C,28,15.011799995
+1280,720,921600,complete_in_memory,Sequential C,29,15.742799995
+1280,720,921600,complete_in_memory,Sequential C,30,14.898300004
+1280,720,921600,complete_in_memory,Planar C,1,21.017100000
+1280,720,921600,complete_in_memory,Planar C,2,22.920000003
+1280,720,921600,complete_in_memory,Planar C,3,19.227700002
+1280,720,921600,complete_in_memory,Planar C,4,22.590600005
+1280,720,921600,complete_in_memory,Planar C,5,23.766599996
+1280,720,921600,complete_in_memory,Planar C,6,24.106599994
+1280,720,921600,complete_in_memory,Planar C,7,22.897499999
+1280,720,921600,complete_in_memory,Planar C,8,26.444900002
+1280,720,921600,complete_in_memory,Planar C,9,22.343400000
+1280,720,921600,complete_in_memory,Planar C,10,23.291200006
+1280,720,921600,complete_in_memory,Planar C,11,20.281500001
+1280,720,921600,complete_in_memory,Planar C,12,20.592100002
+1280,720,921600,complete_in_memory,Planar C,13,21.743899997
+1280,720,921600,complete_in_memory,Planar C,14,22.039100004
+1280,720,921600,complete_in_memory,Planar C,15,17.375100004
+1280,720,921600,complete_in_memory,Planar C,16,24.376999994
+1280,720,921600,complete_in_memory,Planar C,17,20.490499999
+1280,720,921600,complete_in_memory,Planar C,18,18.700499997
+1280,720,921600,complete_in_memory,Planar C,19,20.840699995
+1280,720,921600,complete_in_memory,Planar C,20,19.610899995
+1280,720,921600,complete_in_memory,Planar C,21,28.076499999
+1280,720,921600,complete_in_memory,Planar C,22,21.019000007
+1280,720,921600,complete_in_memory,Planar C,23,22.651500003
+1280,720,921600,complete_in_memory,Planar C,24,21.252299994
+1280,720,921600,complete_in_memory,Planar C,25,20.833900002
+1280,720,921600,complete_in_memory,Planar C,26,21.738799995
+1280,720,921600,complete_in_memory,Planar C,27,23.544100004
+1280,720,921600,complete_in_memory,Planar C,28,21.708100001
+1280,720,921600,complete_in_memory,Planar C,29,22.068300001
+1280,720,921600,complete_in_memory,Planar C,30,21.410699999
+1280,720,921600,complete_in_memory,Planar NASM AVX2,1,10.287100005
+1280,720,921600,complete_in_memory,Planar NASM AVX2,2,7.363900004
+1280,720,921600,complete_in_memory,Planar NASM AVX2,3,10.790700006
+1280,720,921600,complete_in_memory,Planar NASM AVX2,4,12.375899998
+1280,720,921600,complete_in_memory,Planar NASM AVX2,5,11.651000001
+1280,720,921600,complete_in_memory,Planar NASM AVX2,6,12.022299998
+1280,720,921600,complete_in_memory,Planar NASM AVX2,7,10.919300003
+1280,720,921600,complete_in_memory,Planar NASM AVX2,8,10.582299998
+1280,720,921600,complete_in_memory,Planar NASM AVX2,9,8.830100007
+1280,720,921600,complete_in_memory,Planar NASM AVX2,10,12.300000002
+1280,720,921600,complete_in_memory,Planar NASM AVX2,11,5.863700004
+1280,720,921600,complete_in_memory,Planar NASM AVX2,12,9.386099999
+1280,720,921600,complete_in_memory,Planar NASM AVX2,13,9.538099999
+1280,720,921600,complete_in_memory,Planar NASM AVX2,14,5.899799995
+1280,720,921600,complete_in_memory,Planar NASM AVX2,15,7.726500000
+1280,720,921600,complete_in_memory,Planar NASM AVX2,16,10.821500000
+1280,720,921600,complete_in_memory,Planar NASM AVX2,17,8.295000000
+1280,720,921600,complete_in_memory,Planar NASM AVX2,18,6.693600000
+1280,720,921600,complete_in_memory,Planar NASM AVX2,19,11.968500003
+1280,720,921600,complete_in_memory,Planar NASM AVX2,20,8.718300000
+1280,720,921600,complete_in_memory,Planar NASM AVX2,21,9.851600000
+1280,720,921600,complete_in_memory,Planar NASM AVX2,22,9.103600001
+1280,720,921600,complete_in_memory,Planar NASM AVX2,23,8.296500004
+1280,720,921600,complete_in_memory,Planar NASM AVX2,24,7.299999997
+1280,720,921600,complete_in_memory,Planar NASM AVX2,25,15.678900003
+1280,720,921600,complete_in_memory,Planar NASM AVX2,26,10.476899995
+1280,720,921600,complete_in_memory,Planar NASM AVX2,27,10.856800000
+1280,720,921600,complete_in_memory,Planar NASM AVX2,28,10.165799999
+1280,720,921600,complete_in_memory,Planar NASM AVX2,29,7.301899997
+1280,720,921600,complete_in_memory,Planar NASM AVX2,30,7.204699999
+1280,720,921600,kernel_only_prepared,Planar scalar C,1,12.311399994
+1280,720,921600,kernel_only_prepared,Planar scalar C,2,13.611399998
+1280,720,921600,kernel_only_prepared,Planar scalar C,3,14.219400000
+1280,720,921600,kernel_only_prepared,Planar scalar C,4,11.655900002
+1280,720,921600,kernel_only_prepared,Planar scalar C,5,11.092199995
+1280,720,921600,kernel_only_prepared,Planar scalar C,6,11.891200003
+1280,720,921600,kernel_only_prepared,Planar scalar C,7,13.369000000
+1280,720,921600,kernel_only_prepared,Planar scalar C,8,13.356399999
+1280,720,921600,kernel_only_prepared,Planar scalar C,9,11.667799998
+1280,720,921600,kernel_only_prepared,Planar scalar C,10,13.381800003
+1280,720,921600,kernel_only_prepared,Planar scalar C,11,11.973000001
+1280,720,921600,kernel_only_prepared,Planar scalar C,12,13.883100000
+1280,720,921600,kernel_only_prepared,Planar scalar C,13,12.584399999
+1280,720,921600,kernel_only_prepared,Planar scalar C,14,11.919799996
+1280,720,921600,kernel_only_prepared,Planar scalar C,15,11.965500002
+1280,720,921600,kernel_only_prepared,Planar scalar C,16,12.691099997
+1280,720,921600,kernel_only_prepared,Planar scalar C,17,12.592500003
+1280,720,921600,kernel_only_prepared,Planar scalar C,18,11.763399998
+1280,720,921600,kernel_only_prepared,Planar scalar C,19,12.165699998
+1280,720,921600,kernel_only_prepared,Planar scalar C,20,15.884200002
+1280,720,921600,kernel_only_prepared,Planar scalar C,21,12.000700000
+1280,720,921600,kernel_only_prepared,Planar scalar C,22,13.156400004
+1280,720,921600,kernel_only_prepared,Planar scalar C,23,12.893499996
+1280,720,921600,kernel_only_prepared,Planar scalar C,24,11.387600003
+1280,720,921600,kernel_only_prepared,Planar scalar C,25,11.540899999
+1280,720,921600,kernel_only_prepared,Planar scalar C,26,11.918900003
+1280,720,921600,kernel_only_prepared,Planar scalar C,27,13.794999999
+1280,720,921600,kernel_only_prepared,Planar scalar C,28,14.684900001
+1280,720,921600,kernel_only_prepared,Planar scalar C,29,12.824099998
+1280,720,921600,kernel_only_prepared,Planar scalar C,30,12.503099999
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,1,0.730300002
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,2,1.525300002
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,3,1.589800006
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,4,0.978299999
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,5,1.053900000
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,6,0.759499999
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,7,0.384200001
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,8,1.041800002
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,9,0.599100000
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,10,0.349800001
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,11,0.390300003
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,12,1.260599995
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,13,1.124900002
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,14,0.368200002
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,15,0.343699998
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,16,0.370599999
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,17,0.409700006
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,18,0.338899998
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,19,0.368900000
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,20,1.031699998
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,21,0.993200003
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,22,0.879400002
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,23,0.683200000
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,24,0.541199995
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,25,0.506900004
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,26,1.246000000
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,27,0.829899996
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,28,0.403499995
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,29,0.329700000
+1280,720,921600,kernel_only_prepared,Planar NASM AVX2 + tail,30,0.840200002
+1920,1080,2073600,complete_in_memory,Sequential C,1,35.463100001
+1920,1080,2073600,complete_in_memory,Sequential C,2,36.220499998
+1920,1080,2073600,complete_in_memory,Sequential C,3,33.230399997
+1920,1080,2073600,complete_in_memory,Sequential C,4,33.655699997
+1920,1080,2073600,complete_in_memory,Sequential C,5,32.377500000
+1920,1080,2073600,complete_in_memory,Sequential C,6,35.114500002
+1920,1080,2073600,complete_in_memory,Sequential C,7,33.321299998
+1920,1080,2073600,complete_in_memory,Sequential C,8,32.729599996
+1920,1080,2073600,complete_in_memory,Sequential C,9,32.587899994
+1920,1080,2073600,complete_in_memory,Sequential C,10,34.545700000
+1920,1080,2073600,complete_in_memory,Sequential C,11,33.434400000
+1920,1080,2073600,complete_in_memory,Sequential C,12,36.247100004
+1920,1080,2073600,complete_in_memory,Sequential C,13,35.676599997
+1920,1080,2073600,complete_in_memory,Sequential C,14,39.205500005
+1920,1080,2073600,complete_in_memory,Sequential C,15,33.073999999
+1920,1080,2073600,complete_in_memory,Sequential C,16,34.303699998
+1920,1080,2073600,complete_in_memory,Sequential C,17,32.299999999
+1920,1080,2073600,complete_in_memory,Sequential C,18,36.425799997
+1920,1080,2073600,complete_in_memory,Sequential C,19,33.345800002
+1920,1080,2073600,complete_in_memory,Sequential C,20,34.191500003
+1920,1080,2073600,complete_in_memory,Sequential C,21,32.872500007
+1920,1080,2073600,complete_in_memory,Sequential C,22,35.274900001
+1920,1080,2073600,complete_in_memory,Sequential C,23,34.634699994
+1920,1080,2073600,complete_in_memory,Sequential C,24,35.373999999
+1920,1080,2073600,complete_in_memory,Sequential C,25,36.412199996
+1920,1080,2073600,complete_in_memory,Sequential C,26,32.979199997
+1920,1080,2073600,complete_in_memory,Sequential C,27,32.996300004
+1920,1080,2073600,complete_in_memory,Sequential C,28,32.777500004
+1920,1080,2073600,complete_in_memory,Sequential C,29,33.244099999
+1920,1080,2073600,complete_in_memory,Sequential C,30,33.076599997
+1920,1080,2073600,complete_in_memory,Planar C,1,44.010499994
+1920,1080,2073600,complete_in_memory,Planar C,2,50.695200000
+1920,1080,2073600,complete_in_memory,Planar C,3,41.587199994
+1920,1080,2073600,complete_in_memory,Planar C,4,41.085700002
+1920,1080,2073600,complete_in_memory,Planar C,5,43.727000004
+1920,1080,2073600,complete_in_memory,Planar C,6,41.679300004
+1920,1080,2073600,complete_in_memory,Planar C,7,43.358700001
+1920,1080,2073600,complete_in_memory,Planar C,8,38.691800000
+1920,1080,2073600,complete_in_memory,Planar C,9,42.250500002
+1920,1080,2073600,complete_in_memory,Planar C,10,40.563299997
+1920,1080,2073600,complete_in_memory,Planar C,11,43.089999999
+1920,1080,2073600,complete_in_memory,Planar C,12,52.203899999
+1920,1080,2073600,complete_in_memory,Planar C,13,41.838600002
+1920,1080,2073600,complete_in_memory,Planar C,14,40.012700003
+1920,1080,2073600,complete_in_memory,Planar C,15,40.114500000
+1920,1080,2073600,complete_in_memory,Planar C,16,42.278100002
+1920,1080,2073600,complete_in_memory,Planar C,17,45.878600002
+1920,1080,2073600,complete_in_memory,Planar C,18,36.664899999
+1920,1080,2073600,complete_in_memory,Planar C,19,40.588500000
+1920,1080,2073600,complete_in_memory,Planar C,20,37.491199997
+1920,1080,2073600,complete_in_memory,Planar C,21,44.239399998
+1920,1080,2073600,complete_in_memory,Planar C,22,41.774900004
+1920,1080,2073600,complete_in_memory,Planar C,23,39.458799998
+1920,1080,2073600,complete_in_memory,Planar C,24,38.185600002
+1920,1080,2073600,complete_in_memory,Planar C,25,43.585699997
+1920,1080,2073600,complete_in_memory,Planar C,26,45.739800000
+1920,1080,2073600,complete_in_memory,Planar C,27,39.313200003
+1920,1080,2073600,complete_in_memory,Planar C,28,45.198700005
+1920,1080,2073600,complete_in_memory,Planar C,29,41.725900002
+1920,1080,2073600,complete_in_memory,Planar C,30,41.601800003
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,1,16.912100000
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,2,12.312899999
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,3,12.986000002
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,4,13.099000003
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,5,16.524000006
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,6,15.640300000
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,7,17.319999999
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,8,19.546099997
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,9,16.766500004
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,10,19.818000001
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,11,18.222500003
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,12,17.586899994
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,13,17.838200001
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,14,12.238200005
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,15,15.570799995
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,16,17.484600001
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,17,14.547799998
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,18,11.652800000
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,19,10.840800001
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,20,15.821299996
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,21,14.683299996
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,22,13.331000002
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,23,10.151499999
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,24,23.024900001
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,25,14.485100000
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,26,14.014699998
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,27,13.973000001
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,28,16.878499999
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,29,13.948799999
+1920,1080,2073600,complete_in_memory,Planar NASM AVX2,30,13.700700001
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,1,29.327199998
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,2,27.899200002
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,3,26.860500002
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,4,29.984299996
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,5,29.487400003
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,6,26.523299995
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,7,26.802600005
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,8,31.877299996
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,9,27.486499996
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,10,27.570999999
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,11,28.243200002
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,12,26.501400003
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,13,29.869200000
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,14,29.083499998
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,15,26.530300005
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,16,26.989300000
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,17,27.412800002
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,18,31.063299997
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,19,27.861499999
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,20,28.033100003
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,21,29.664499998
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,22,28.127700003
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,23,28.107500002
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,24,29.332999999
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,25,27.570799997
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,26,26.481800000
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,27,27.120400002
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,28,27.748900000
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,29,27.256699999
+1920,1080,2073600,kernel_only_prepared,Planar scalar C,30,28.200000001
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,1,2.303800000
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,2,1.599499999
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,3,0.861399996
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,4,2.747300001
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,5,2.588300005
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,6,0.840900000
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,7,0.861699998
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,8,0.902899999
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,9,1.399000001
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,10,0.875000005
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,11,1.368500001
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,12,0.938300000
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,13,2.018699997
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,14,2.348399998
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,15,2.217299996
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,16,2.235100001
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,17,2.310899996
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,18,2.463899997
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,19,2.097600001
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,20,2.277699998
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,21,2.170800006
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,22,2.201099996
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,23,2.233399995
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,24,2.490400002
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,25,2.324599998
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,26,2.722099998
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,27,2.452499997
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,28,2.427199994
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,29,2.221199997
+1920,1080,2073600,kernel_only_prepared,Planar NASM AVX2 + tail,30,2.223600000
+3840,2160,8294400,complete_in_memory,Sequential C,1,143.254099996
+3840,2160,8294400,complete_in_memory,Sequential C,2,142.335500001
+3840,2160,8294400,complete_in_memory,Sequential C,3,141.123000001
+3840,2160,8294400,complete_in_memory,Sequential C,4,139.135100006
+3840,2160,8294400,complete_in_memory,Sequential C,5,141.790400005
+3840,2160,8294400,complete_in_memory,Sequential C,6,141.632899999
+3840,2160,8294400,complete_in_memory,Sequential C,7,142.263499998
+3840,2160,8294400,complete_in_memory,Sequential C,8,138.793699996
+3840,2160,8294400,complete_in_memory,Sequential C,9,134.422399999
+3840,2160,8294400,complete_in_memory,Sequential C,10,140.821000001
+3840,2160,8294400,complete_in_memory,Sequential C,11,139.067000004
+3840,2160,8294400,complete_in_memory,Sequential C,12,134.348799998
+3840,2160,8294400,complete_in_memory,Sequential C,13,138.886400004
+3840,2160,8294400,complete_in_memory,Sequential C,14,130.314900001
+3840,2160,8294400,complete_in_memory,Sequential C,15,138.221200003
+3840,2160,8294400,complete_in_memory,Sequential C,16,138.984499994
+3840,2160,8294400,complete_in_memory,Sequential C,17,136.830700001
+3840,2160,8294400,complete_in_memory,Sequential C,18,140.565900001
+3840,2160,8294400,complete_in_memory,Sequential C,19,135.855599998
+3840,2160,8294400,complete_in_memory,Sequential C,20,133.708200003
+3840,2160,8294400,complete_in_memory,Sequential C,21,135.675600002
+3840,2160,8294400,complete_in_memory,Sequential C,22,137.709800001
+3840,2160,8294400,complete_in_memory,Sequential C,23,137.973099998
+3840,2160,8294400,complete_in_memory,Sequential C,24,137.276800000
+3840,2160,8294400,complete_in_memory,Sequential C,25,136.145299999
+3840,2160,8294400,complete_in_memory,Sequential C,26,143.153700003
+3840,2160,8294400,complete_in_memory,Sequential C,27,146.260400004
+3840,2160,8294400,complete_in_memory,Sequential C,28,126.963499999
+3840,2160,8294400,complete_in_memory,Sequential C,29,135.558299997
+3840,2160,8294400,complete_in_memory,Sequential C,30,139.217500000
+3840,2160,8294400,complete_in_memory,Planar C,1,180.627800000
+3840,2160,8294400,complete_in_memory,Planar C,2,166.924899997
+3840,2160,8294400,complete_in_memory,Planar C,3,169.742999999
+3840,2160,8294400,complete_in_memory,Planar C,4,177.883199998
+3840,2160,8294400,complete_in_memory,Planar C,5,167.890800003
+3840,2160,8294400,complete_in_memory,Planar C,6,171.063399997
+3840,2160,8294400,complete_in_memory,Planar C,7,177.249599998
+3840,2160,8294400,complete_in_memory,Planar C,8,161.478100003
+3840,2160,8294400,complete_in_memory,Planar C,9,165.946199995
+3840,2160,8294400,complete_in_memory,Planar C,10,174.553299999
+3840,2160,8294400,complete_in_memory,Planar C,11,169.216399998
+3840,2160,8294400,complete_in_memory,Planar C,12,176.531999998
+3840,2160,8294400,complete_in_memory,Planar C,13,178.306800000
+3840,2160,8294400,complete_in_memory,Planar C,14,173.454999996
+3840,2160,8294400,complete_in_memory,Planar C,15,170.756499996
+3840,2160,8294400,complete_in_memory,Planar C,16,168.718800000
+3840,2160,8294400,complete_in_memory,Planar C,17,159.212099999
+3840,2160,8294400,complete_in_memory,Planar C,18,174.109299995
+3840,2160,8294400,complete_in_memory,Planar C,19,160.390899997
+3840,2160,8294400,complete_in_memory,Planar C,20,164.140299996
+3840,2160,8294400,complete_in_memory,Planar C,21,178.537100001
+3840,2160,8294400,complete_in_memory,Planar C,22,181.102000002
+3840,2160,8294400,complete_in_memory,Planar C,23,168.152499995
+3840,2160,8294400,complete_in_memory,Planar C,24,177.024500001
+3840,2160,8294400,complete_in_memory,Planar C,25,175.232699999
+3840,2160,8294400,complete_in_memory,Planar C,26,174.826199996
+3840,2160,8294400,complete_in_memory,Planar C,27,199.915099998
+3840,2160,8294400,complete_in_memory,Planar C,28,156.729800001
+3840,2160,8294400,complete_in_memory,Planar C,29,173.087399999
+3840,2160,8294400,complete_in_memory,Planar C,30,170.940500000
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,1,65.826200000
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,2,62.376499998
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,3,60.934699999
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,4,59.082399996
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,5,54.848100001
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,6,78.345799993
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,7,61.598599998
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,8,74.733499998
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,9,74.171400003
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,10,58.331400003
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,11,70.184799995
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,12,60.212700002
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,13,71.438999999
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,14,68.275999998
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,15,65.670899996
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,16,55.980000005
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,17,76.292400001
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,18,60.005200001
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,19,61.377400001
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,20,70.928199995
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,21,58.459100001
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,22,57.769799998
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,23,82.473800001
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,24,61.318400003
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,25,70.246499999
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,26,64.689899998
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,27,93.702999999
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,28,58.257400000
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,29,67.075500003
+3840,2160,8294400,complete_in_memory,Planar NASM AVX2,30,70.491999999
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,1,114.553899999
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,2,107.796299999
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,3,108.941799997
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,4,104.409200001
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,5,108.079099999
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,6,109.920600000
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,7,113.350699998
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,8,113.232299998
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,9,110.216399997
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,10,114.719300000
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,11,104.450900006
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,12,117.764200004
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,13,111.279999997
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,14,112.315499995
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,15,125.614500001
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,16,115.158000001
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,17,105.185000000
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,18,109.873399997
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,19,111.128100005
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,20,112.544100004
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,21,110.286900002
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,22,115.925899998
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,23,112.974199998
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,24,117.816599995
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,25,114.383100001
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,26,113.720400004
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,27,114.197799994
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,28,115.733899998
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,29,112.991099995
+3840,2160,8294400,kernel_only_prepared,Planar scalar C,30,113.832299998
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,1,12.106199996
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,2,5.708500001
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,3,5.376900001
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,4,12.602299998
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,5,8.857599998
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,6,8.926600000
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,7,6.571000005
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,8,13.831600001
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,9,11.743200004
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,10,12.778299999
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,11,13.645100000
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,12,12.941200002
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,13,11.942700003
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,14,12.647399999
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,15,6.467799998
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,16,8.503400000
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,17,4.478999996
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,18,12.395600002
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,19,6.084399996
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,20,12.749800000
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,21,9.600099998
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,22,10.254000001
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,23,4.079900005
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,24,12.792100002
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,25,11.500699999
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,26,11.860899998
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,27,6.328700001
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,28,10.125300003
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,29,4.655299999
+3840,2160,8294400,kernel_only_prepared,Planar NASM AVX2 + tail,30,11.046899999
+641,479,307039,complete_in_memory,Sequential C,1,4.913199999
+641,479,307039,complete_in_memory,Sequential C,2,5.218500002
+641,479,307039,complete_in_memory,Sequential C,3,4.636200007
+641,479,307039,complete_in_memory,Sequential C,4,4.748299994
+641,479,307039,complete_in_memory,Sequential C,5,4.820800001
+641,479,307039,complete_in_memory,Sequential C,6,4.720299999
+641,479,307039,complete_in_memory,Sequential C,7,4.675099997
+641,479,307039,complete_in_memory,Sequential C,8,4.737899995
+641,479,307039,complete_in_memory,Sequential C,9,4.658400001
+641,479,307039,complete_in_memory,Sequential C,10,4.696600001
+641,479,307039,complete_in_memory,Sequential C,11,5.840200000
+641,479,307039,complete_in_memory,Sequential C,12,5.132100006
+641,479,307039,complete_in_memory,Sequential C,13,4.923000000
+641,479,307039,complete_in_memory,Sequential C,14,5.012099995
+641,479,307039,complete_in_memory,Sequential C,15,5.001300000
+641,479,307039,complete_in_memory,Sequential C,16,4.936600002
+641,479,307039,complete_in_memory,Sequential C,17,4.934900004
+641,479,307039,complete_in_memory,Sequential C,18,4.706299995
+641,479,307039,complete_in_memory,Sequential C,19,4.742799996
+641,479,307039,complete_in_memory,Sequential C,20,5.225599998
+641,479,307039,complete_in_memory,Sequential C,21,4.699899997
+641,479,307039,complete_in_memory,Sequential C,22,4.827699995
+641,479,307039,complete_in_memory,Sequential C,23,4.921000000
+641,479,307039,complete_in_memory,Sequential C,24,5.529199996
+641,479,307039,complete_in_memory,Sequential C,25,4.961299994
+641,479,307039,complete_in_memory,Sequential C,26,4.652500000
+641,479,307039,complete_in_memory,Sequential C,27,4.750700005
+641,479,307039,complete_in_memory,Sequential C,28,4.945399996
+641,479,307039,complete_in_memory,Sequential C,29,4.967800000
+641,479,307039,complete_in_memory,Sequential C,30,5.454500002
+641,479,307039,complete_in_memory,Planar C,1,6.685000000
+641,479,307039,complete_in_memory,Planar C,2,6.099200000
+641,479,307039,complete_in_memory,Planar C,3,5.889700005
+641,479,307039,complete_in_memory,Planar C,4,5.956599998
+641,479,307039,complete_in_memory,Planar C,5,6.325099996
+641,479,307039,complete_in_memory,Planar C,6,6.279200003
+641,479,307039,complete_in_memory,Planar C,7,5.863500002
+641,479,307039,complete_in_memory,Planar C,8,6.539700000
+641,479,307039,complete_in_memory,Planar C,9,6.898200001
+641,479,307039,complete_in_memory,Planar C,10,5.653799999
+641,479,307039,complete_in_memory,Planar C,11,6.536599998
+641,479,307039,complete_in_memory,Planar C,12,8.500399999
+641,479,307039,complete_in_memory,Planar C,13,5.556600001
+641,479,307039,complete_in_memory,Planar C,14,6.591500001
+641,479,307039,complete_in_memory,Planar C,15,6.110000002
+641,479,307039,complete_in_memory,Planar C,16,6.284999996
+641,479,307039,complete_in_memory,Planar C,17,6.407099994
+641,479,307039,complete_in_memory,Planar C,18,6.567900004
+641,479,307039,complete_in_memory,Planar C,19,7.252700001
+641,479,307039,complete_in_memory,Planar C,20,5.836999997
+641,479,307039,complete_in_memory,Planar C,21,6.749699998
+641,479,307039,complete_in_memory,Planar C,22,5.561800004
+641,479,307039,complete_in_memory,Planar C,23,6.641900000
+641,479,307039,complete_in_memory,Planar C,24,6.127000001
+641,479,307039,complete_in_memory,Planar C,25,6.303700000
+641,479,307039,complete_in_memory,Planar C,26,6.086900001
+641,479,307039,complete_in_memory,Planar C,27,7.842100000
+641,479,307039,complete_in_memory,Planar C,28,5.914200003
+641,479,307039,complete_in_memory,Planar C,29,5.770399999
+641,479,307039,complete_in_memory,Planar C,30,6.584000002
+641,479,307039,complete_in_memory,Planar NASM AVX2,1,3.279299999
+641,479,307039,complete_in_memory,Planar NASM AVX2,2,2.068000002
+641,479,307039,complete_in_memory,Planar NASM AVX2,3,2.516700006
+641,479,307039,complete_in_memory,Planar NASM AVX2,4,2.370300004
+641,479,307039,complete_in_memory,Planar NASM AVX2,5,1.738699997
+641,479,307039,complete_in_memory,Planar NASM AVX2,6,2.803500000
+641,479,307039,complete_in_memory,Planar NASM AVX2,7,2.684899999
+641,479,307039,complete_in_memory,Planar NASM AVX2,8,2.870500000
+641,479,307039,complete_in_memory,Planar NASM AVX2,9,2.088100002
+641,479,307039,complete_in_memory,Planar NASM AVX2,10,2.695199997
+641,479,307039,complete_in_memory,Planar NASM AVX2,11,2.640000006
+641,479,307039,complete_in_memory,Planar NASM AVX2,12,2.357400001
+641,479,307039,complete_in_memory,Planar NASM AVX2,13,2.158800002
+641,479,307039,complete_in_memory,Planar NASM AVX2,14,2.232499995
+641,479,307039,complete_in_memory,Planar NASM AVX2,15,2.850600002
+641,479,307039,complete_in_memory,Planar NASM AVX2,16,2.263599999
+641,479,307039,complete_in_memory,Planar NASM AVX2,17,2.570999997
+641,479,307039,complete_in_memory,Planar NASM AVX2,18,2.617200000
+641,479,307039,complete_in_memory,Planar NASM AVX2,19,2.322900000
+641,479,307039,complete_in_memory,Planar NASM AVX2,20,2.469600004
+641,479,307039,complete_in_memory,Planar NASM AVX2,21,2.058799997
+641,479,307039,complete_in_memory,Planar NASM AVX2,22,1.623700002
+641,479,307039,complete_in_memory,Planar NASM AVX2,23,2.286600000
+641,479,307039,complete_in_memory,Planar NASM AVX2,24,2.705100000
+641,479,307039,complete_in_memory,Planar NASM AVX2,25,2.177000002
+641,479,307039,complete_in_memory,Planar NASM AVX2,26,2.744099998
+641,479,307039,complete_in_memory,Planar NASM AVX2,27,1.771799994
+641,479,307039,complete_in_memory,Planar NASM AVX2,28,2.212699997
+641,479,307039,complete_in_memory,Planar NASM AVX2,29,2.315600002
+641,479,307039,complete_in_memory,Planar NASM AVX2,30,2.462800003
+641,479,307039,kernel_only_prepared,Planar scalar C,1,4.253200001
+641,479,307039,kernel_only_prepared,Planar scalar C,2,3.870699999
+641,479,307039,kernel_only_prepared,Planar scalar C,3,3.958000001
+641,479,307039,kernel_only_prepared,Planar scalar C,4,4.181599994
+641,479,307039,kernel_only_prepared,Planar scalar C,5,5.728099997
+641,479,307039,kernel_only_prepared,Planar scalar C,6,3.935399996
+641,479,307039,kernel_only_prepared,Planar scalar C,7,3.952700004
+641,479,307039,kernel_only_prepared,Planar scalar C,8,3.842300001
+641,479,307039,kernel_only_prepared,Planar scalar C,9,3.675799999
+641,479,307039,kernel_only_prepared,Planar scalar C,10,3.669400001
+641,479,307039,kernel_only_prepared,Planar scalar C,11,3.710699995
+641,479,307039,kernel_only_prepared,Planar scalar C,12,4.408100001
+641,479,307039,kernel_only_prepared,Planar scalar C,13,3.958200003
+641,479,307039,kernel_only_prepared,Planar scalar C,14,4.015099999
+641,479,307039,kernel_only_prepared,Planar scalar C,15,4.498900002
+641,479,307039,kernel_only_prepared,Planar scalar C,16,4.073999997
+641,479,307039,kernel_only_prepared,Planar scalar C,17,3.977400003
+641,479,307039,kernel_only_prepared,Planar scalar C,18,4.391800001
+641,479,307039,kernel_only_prepared,Planar scalar C,19,3.876499999
+641,479,307039,kernel_only_prepared,Planar scalar C,20,3.852299997
+641,479,307039,kernel_only_prepared,Planar scalar C,21,3.898800001
+641,479,307039,kernel_only_prepared,Planar scalar C,22,3.879199998
+641,479,307039,kernel_only_prepared,Planar scalar C,23,4.412899994
+641,479,307039,kernel_only_prepared,Planar scalar C,24,4.176000002
+641,479,307039,kernel_only_prepared,Planar scalar C,25,3.930999999
+641,479,307039,kernel_only_prepared,Planar scalar C,26,4.074099998
+641,479,307039,kernel_only_prepared,Planar scalar C,27,3.764800000
+641,479,307039,kernel_only_prepared,Planar scalar C,28,3.676299995
+641,479,307039,kernel_only_prepared,Planar scalar C,29,3.872300003
+641,479,307039,kernel_only_prepared,Planar scalar C,30,3.631899999
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,1,0.070399998
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,2,0.098199998
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,3,0.086200002
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,4,0.211099999
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,5,0.110100002
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,6,0.168900006
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,7,0.119700002
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,8,0.147600003
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,9,0.089200003
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,10,0.112900001
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,11,0.070200003
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,12,0.120799996
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,13,0.066600005
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,14,0.111900001
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,15,0.064499996
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,16,0.110800000
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,17,0.063200001
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,18,0.110000001
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,19,0.065599997
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,20,0.098099998
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,21,0.083300001
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,22,0.072199997
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,23,0.059600003
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,24,0.106100000
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,25,0.087499997
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,26,0.199600006
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,27,0.118300006
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,28,0.184299999
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,29,0.104799998
+641,479,307039,kernel_only_prepared,Planar NASM AVX2 + tail,30,0.128499996
