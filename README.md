@@ -216,4 +216,4 @@ ChatGPT was used to help prepare minor initial C implementation examples, automa
 
 - [Original video pitch](https://drive.google.com/file/d/1lUj4cKhRb9e4dU-IyHioNdkyP3rqXDsl/view)
 - [Revised video pitch](https://drive.google.com/file/d/1oaG3sUWaKnIROWXJ6y1eRCfXm2TA-yw_/view?usp=sharing)
-- Week 10 demonstration video link:
+- [Week 10 demonstration video link](https://drive.google.com/file/d/1PzqQglrg3QWC3D0TMigBhStxQMGcD6Iy/view?usp=sharing)
